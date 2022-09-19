@@ -1,4 +1,4 @@
-# Telemedical | Progressive Web Application
+# Telemedicine Live | Progressive Web Application
 
 ### Developer
 - CaptainCrauZ
